@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/ytdl-org/youtube-dl.svg?branch=master)](https://travis-ci.org/ytdl-org/youtube-dl)
 
-WARNING: This tool may not be used for illegal purposes. Use them only to download your own movies.
+**WARNING: This tool may not be used for illegal purposes. Use it only to download your own movies.**
 
 - [INSTALLATION](#installation)
 - [DESCRIPTION](#description)
